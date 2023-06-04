@@ -1,3 +1,3 @@
 # traducao-tecnica
-Texto sobre heurísticas de usabilidade para acessibilidade, traduzido do inglês, para a comunidade brasileira.
+Heurísticas de usabilidade para acessibilidade: texto traduzido do inglês, para a comunidade brasileira.
 Trabalho realizado em 2021. 
